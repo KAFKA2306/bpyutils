@@ -3,6 +3,7 @@ blender-4.0.2-linux-x64/
 *.Identifier
 *.blend
 *.unity
+*.pkl
 *fbx-weight-transfer-unity/unity-scripts/Kiseru*
 *Kiseru*
 *tools*

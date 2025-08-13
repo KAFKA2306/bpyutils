@@ -1,0 +1,17 @@
+{
+  "targetFolder": "Assets/Models/",
+  "enableTransparency": true,
+  "createBackups": true,
+  "targetShader": "lilToon",
+  "alphaThreshold": 0.5,
+  "logLevel": "Info",
+  "fileFilters": ["*.fbx"],
+  "excludePatterns": ["_backup", "_temp"],
+  "maxConcurrentProcesses": 4,
+  "transparencyMode": 2,
+  "renderQueue": 3000,
+  "backupPath": "Backups/Materials/",
+  "logPath": "Logs/",
+  "preserveOriginalTextures": true,
+  "autoDetectTransparency": true
+}
