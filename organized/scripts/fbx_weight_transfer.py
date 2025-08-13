@@ -31,15 +31,72 @@ import sys
 import os
 import logging
 import argparse
+import configparser
 from datetime import datetime
 from pathlib import Path
 
-def setup_logging(log_dir: str) -> logging.Logger:
+class WeightTransferConfig:
+    """Configuration class for weight transfer settings"""
+    def __init__(self, config_file: str = None):
+        self.config = configparser.ConfigParser()
+        
+        # Default values
+        self.transfer_method = 'POLY_NEAREST'
+        self.max_distance = 0.5
+        self.min_influence = 0.001
+        self.clean_vertex_groups = True
+        self.global_scale = 1.0
+        self.primary_bone_axis = 'Y'
+        self.secondary_bone_axis = 'X'
+        self.add_leaf_bones = True
+        self.armature_nodetype = 'NULL'
+        self.verbose = True
+        self.show_progress = True
+        self.create_backup = False
+        self.log_prefix = 'weight_transfer'
+        
+        if config_file and os.path.exists(config_file):
+            self.load_config(config_file)
+    
+    def load_config(self, config_file: str):
+        """Load configuration from file"""
+        self.config.read(config_file)
+        
+        # Path settings
+        self.default_input_fbx = None
+        self.default_output_fbx = None
+        if self.config.has_section('PATHS'):
+            self.default_input_fbx = self.config.get('PATHS', 'DEFAULT_INPUT_FBX', fallback=None)
+            self.default_output_fbx = self.config.get('PATHS', 'DEFAULT_OUTPUT_FBX', fallback=None)
+        
+        # Processing settings
+        if self.config.has_section('PROCESSING'):
+            self.transfer_method = self.config.get('PROCESSING', 'TRANSFER_METHOD', fallback=self.transfer_method)
+            self.max_distance = self.config.getfloat('PROCESSING', 'MAX_DISTANCE', fallback=self.max_distance)
+            self.min_influence = self.config.getfloat('PROCESSING', 'MIN_INFLUENCE', fallback=self.min_influence)
+            self.clean_vertex_groups = self.config.getboolean('PROCESSING', 'CLEAN_VERTEX_GROUPS', fallback=self.clean_vertex_groups)
+        
+        # Export settings
+        if self.config.has_section('EXPORT'):
+            self.global_scale = self.config.getfloat('EXPORT', 'GLOBAL_SCALE', fallback=self.global_scale)
+            self.primary_bone_axis = self.config.get('EXPORT', 'PRIMARY_BONE_AXIS', fallback=self.primary_bone_axis)
+            self.secondary_bone_axis = self.config.get('EXPORT', 'SECONDARY_BONE_AXIS', fallback=self.secondary_bone_axis)
+            self.add_leaf_bones = self.config.getboolean('EXPORT', 'ADD_LEAF_BONES', fallback=self.add_leaf_bones)
+            self.armature_nodetype = self.config.get('EXPORT', 'ARMATURE_NODETYPE', fallback=self.armature_nodetype)
+        
+        # Output settings
+        if self.config.has_section('OUTPUT'):
+            self.verbose = self.config.getboolean('OUTPUT', 'VERBOSE', fallback=self.verbose)
+            self.show_progress = self.config.getboolean('OUTPUT', 'SHOW_PROGRESS', fallback=self.show_progress)
+            self.create_backup = self.config.getboolean('OUTPUT', 'CREATE_BACKUP', fallback=self.create_backup)
+            self.log_prefix = self.config.get('OUTPUT', 'LOG_PREFIX', fallback=self.log_prefix)
+
+def setup_logging(log_dir: str, config: WeightTransferConfig) -> logging.Logger:
     """Setup detailed logging"""
     os.makedirs(log_dir, exist_ok=True)
     
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    log_file = os.path.join(log_dir, f"weight_transfer_{timestamp}.log")
+    log_file = os.path.join(log_dir, f"{config.log_prefix}_{timestamp}.log")
     
     logging.basicConfig(
         level=logging.INFO,
@@ -256,23 +313,40 @@ def export_fbx(output_path: str, logger) -> bool:
 def main():
     """Main processing function"""
     # Parse command line arguments
+    config_file = None
     if "--" in sys.argv:
         custom_args = sys.argv[sys.argv.index("--") + 1:]
         if len(custom_args) >= 2:
             input_fbx = custom_args[0]
             output_fbx = custom_args[1]
+            config_file = custom_args[2] if len(custom_args) >= 3 else None
         else:
-            print("Usage: blender --background --python fbx_weight_transfer.py -- <input_fbx> <output_fbx>")
+            print("Usage: blender --background --python fbx_weight_transfer.py -- <input_fbx> <output_fbx> [config_file]")
             return
     else:
-        # Default paths for testing
+        # Default paths - load config first to get default FBX paths
+        config_file = str(Path(__file__).parent / "weight_transfer.conf")
+        config = WeightTransferConfig(config_file)
+        
+        # Use config defaults or fallback to hardcoded defaults
         script_dir = Path(__file__).parent.parent
-        input_fbx = str(script_dir / "workspace/input/model.fbx")
-        output_fbx = str(script_dir / "workspace/output/model_with_weights.fbx")
+        if config.default_input_fbx:
+            input_fbx = str(script_dir / config.default_input_fbx)
+        else:
+            input_fbx = str(script_dir / "workspace/input/2025-08-13.fbx")
+            
+        if config.default_output_fbx:
+            output_fbx = str(script_dir / config.default_output_fbx)
+        else:
+            output_fbx = str(script_dir / "workspace/output/model_with_weights.fbx")
+    
+    # Load configuration (if not already loaded)
+    if 'config' not in locals():
+        config = WeightTransferConfig(config_file)
     
     # Setup logging
     log_dir = str(Path(__file__).parent.parent / "workspace/logs")
-    logger = setup_logging(log_dir)
+    logger = setup_logging(log_dir, config)
     
     logger.info("=== FBX WEIGHT TRANSFER TOOL ===")
     logger.info(f"Input: {input_fbx}")
