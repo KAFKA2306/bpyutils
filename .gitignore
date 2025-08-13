@@ -1,0 +1,8 @@
+blender-4.0.2-linux-x64/
+*.fbx
+*.Identifier
+*.blend
+*fbx-weight-transfer-unity/unity-scripts/Kiseru*
+*Kiseru*
+*tools*
+*log*
