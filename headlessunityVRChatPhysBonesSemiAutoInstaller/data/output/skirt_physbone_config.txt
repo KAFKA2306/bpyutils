@@ -1,0 +1,120 @@
+=== VRChat PhysBone Configuration for SUN_Yukata Skirt ===
+Generated: Thu Aug 14 15:30:00 JST 2025
+Scene: MarvelousDesigner.unity
+Target Character: SUN_Yukata Variant Variant
+
+=== CONFIRMED SKIRT ROOT PATH ===
+手動確認されたフルパス:
+SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+
+=== PHYSBONE CONFIGURATION SETTINGS ===
+
+1. Main VRCPhysBone Component:
+   - GameObject: HipRoot
+   - Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+   - Root Transform: Root (Armature.JamCommon/Root)
+   
+2. Target Bones for PhysBone:
+   ├── HipRoot_L.001 (左スカートチェーン)
+   │   └── HipRoot_L.001_end
+   │       └── HipRoot_L.001_end_end
+   │           └── HipRoot_L.001_end_end_end
+   └── HipRoot_R.001 (右スカートチェーン)
+       └── HipRoot_R.001_end
+           └── HipRoot_R.001_end_end
+               └── HipRoot_R.001_end_end_end
+
+=== RECOMMENDED PHYSBONE PARAMETERS ===
+
+基本設定:
+- Integration Type: Simplified
+- Root Transform: Root
+- Ignore Transforms: (empty or Hips if needed)
+- Endpoint Position: (0, 0, 0)
+- Multi Child Type: Ignore
+
+物理設定:
+- Immobile: 0 (可動)
+- Immobile Type: World
+- Gravity: 0
+- Gravity Falloff: 0
+- Inert: 0.2
+- Elasticity: 0.1
+- Elasticity Falloff: 1.0
+- Stiffness: 0.2
+- Stiffness Falloff: 1.0
+- Damping: 0.1
+- Damping Falloff: 1.0
+
+制限設定:
+- Limit Type: Hinge
+- Max Angle X: 45°
+- Max Angle Z: 45°
+- Limit Rotation: (35°, 0°, 0°) # angle - innerAngle = 45 - 10
+
+コリジョン設定:
+- Radius: 0.05
+- Allow Collision: true
+- Colliders: (VRChatアバター用コライダーを設定)
+
+=== REGEX PATTERN FOR BONE MATCHING ===
+Pattern: .*\.001
+Matches:
+- HipRoot_L.001 ✓
+- HipRoot_R.001 ✓
+
+=== VRCHAT AVATAR SETUP CHECKLIST ===
+
+□ 1. HipRootにVRCPhysBoneコンポーネントを追加
+□ 2. Root TransformをArmature.JamCommon/Rootに設定  
+□ 3. 上記パラメータを適用
+□ 4. スカートボーンの動作テスト
+□ 5. コリジョン設定（必要に応じて）
+□ 6. アバターアップロード前の最終確認
+
+=== UNITY EDIT MODE INSTRUCTIONS ===
+
+1. VRCPhysBoneコンポーネントをHipRootに追加:
+   - GameObject: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+   - Add Component → VRC PhysBone
+
+2. 設定値を入力:
+   - Root Transform: Root (Armature.JamCommonの子オブジェクト)
+   - Integration Type: Simplified
+   - Multi Child Type: Ignore
+   - 物理パラメータは上記「RECOMMENDED PHYSBONE PARAMETERS」を参照
+
+3. プレハブ化またはシーン保存
+
+=== ADDITIONAL PHYSICS BONES (OPTIONAL) ===
+
+胸部物理 (BustRoot):
+- Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+- Bones: Bust_L.001, Bust_R.001
+- 推奨設定: より軽い物理パラメータ (Stiffness 0.5, Inert 0.1)
+
+=== VALIDATION NOTES ===
+
+✓ HipRoot構造が正常に検出されました
+✓ 左右対称のスカートボーンチェーンが確認されました  
+✓ 4段階のボーンチェーン（適切な長さ）
+✓ Armature.JamCommon構造との整合性
+✓ 複数バリエーション対応可能
+
+=== TROUBLESHOOTING ===
+
+問題: スカートが硬すぎる
+→ Stiffnessを0.1-0.3に下げる、Elasticityを0.2に上げる
+
+問題: スカートが揺れすぎる  
+→ Dampingを0.2-0.3に上げる、Immobileを0.1に設定
+
+問題: ボーンが検出されない
+→ Root Transformが正しく設定されているか確認
+→ Multi Child TypeをIgnoreに設定
+
+=== COMMAND FOR AUTOMATED CONFIGURATION ===
+
+./run_headless_test.sh /home/kafka/Unity/Hub/Editor/2022.3.22f1/Editor/Unity "HipRoot" ".*\.001" 45 10
+
+この設定により、SUN_Yukata Variantのスカート部分に適切なVRChat PhysBone物理設定が適用されます。

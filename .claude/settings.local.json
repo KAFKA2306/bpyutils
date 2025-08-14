@@ -48,7 +48,8 @@
       "Bash(/home/kafka/Unity/Hub/Editor/2022.3.22f1/Editor/Unity --version)",
       "Bash(./analyze_scene.sh:*)",
       "Bash(./extract_armature.sh)",
-      "Bash(true)"
+      "Bash(true)",
+      "Bash(./install_skirt_physbone.sh:*)"
     ],
     "deny": [],
     "ask": [],

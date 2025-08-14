@@ -15,10 +15,11 @@
 **/bin/
 
 # Unity Asset Store and Package Cache
-*Assets*
+*Assets/*
+!*Assets/Editor/
+!*Assets/Editor/**
 *.asset
 *.Identifier*
-!*Assets/Editor*
 **/Assets/AssetStoreTools/
 **/Assets/Plugins/Android/
 **/Assets/StreamingAssets/
@@ -211,3 +212,44 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+# Unity アセットファイルを無視
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.tiff
+*.tif
+*.bmp
+*.gif
+*.psd
+*.ai
+*.exr
+*.hdr
+
+# Unity マテリアルとプレファブ
+*.mat
+*.prefab
+*.asset
+*.unity
+
+# アニメーションファイル
+*.anim
+*.controller
+*.mask
+
+# その他のUnityファイル
+*.fbx
+*.blend
+*.obj
+*.3ds
+*.dae
+*.max
+
+# メタファイル
+*.meta
+
+# CSファイルは明示的に追跡対象に含める
+!*.cs

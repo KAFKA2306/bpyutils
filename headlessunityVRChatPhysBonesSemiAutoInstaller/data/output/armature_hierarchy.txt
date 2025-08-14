@@ -1,6 +1,6 @@
 === DETECTED ARMATURE HIERARCHY ===
 Scene: MarvelousDesigner
-Generated: Thu Aug 14 15:06:44 JST 2025
+Generated: Thu Aug 14 15:27:06 JST 2025
 
 Found Armature Structure:
 ✓ Armature.JamCommon

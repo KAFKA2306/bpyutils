@@ -1,6 +1,6 @@
 === Armature Structure Analysis ===
 Scene: MarvelousDesigner
-Generated: 08/14/2025 15:06:44
+Generated: 08/14/2025 15:27:02
 
 Potential Armature: SUN_Yukata Variant Variant/Armature.JamCommon
 Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon
