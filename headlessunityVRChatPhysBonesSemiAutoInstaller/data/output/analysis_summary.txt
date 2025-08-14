@@ -1,0 +1,8 @@
+=== Analysis Summary ===
+Scene File: /mnt/wsl/bpyutils2/headlessunityVRChatPhysBonesSemiAutoInstaller/Assets/scene/MarvelousDesigner.unity
+File Size: 29K
+Analysis Time: Thu Aug 14 14:48:03 JST 2025
+
+GameObjects found: 16
+Transforms found: 5
+Named objects: 8

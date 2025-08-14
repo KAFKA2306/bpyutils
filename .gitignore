@@ -1,15 +1,213 @@
-blender-4.0.2-linux-x64/
+# ==============================================================================
+# UNITY GITIGNORE - Large Files & Raw Unity Assets
+# ==============================================================================
+
+# Unity generated files and folders
+**/Library/
+**/Temp/
+**/Obj/
+**/Build/
+**/Builds/
+**/Logs/
+**/UserSettings/
+**/MemoryCaptures/
+**/obj/
+**/bin/
+
+# Unity Asset Store and Package Cache
+*Assets*
+*.asset
+*.Identifier*
+!*Assets/Editor*
+**/Assets/AssetStoreTools/
+**/Assets/Plugins/Android/
+**/Assets/StreamingAssets/
+**/PackageCache/
+**/Packages/
+
+# Large Unity files
+*.unity.meta
+*.prefab.meta
+*.asset.meta
+*.mat.meta
+*.anim.meta
+*.controller.meta
+*.mask.meta
+*.shader.meta
+*.cginc.meta
+*.cs.meta
+
+# Binary and large asset files
 *.fbx
-*.Identifier
+*.FBX
 *.blend
+*.blend1
+*.ma
+*.mb
+*.max
+*.c4d
+*.obj
+*.3ds
+*.dae
 *.unity
+*.assets
+*.ZoneIdentifier
+*.meta
+*.png
+*anim
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+*.aiff
+*.aif
+*.mod
+*.it
+*.s3m
+*.xm
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# Texture and image files (large)
+*.tga
+*.tiff
+*.tif
+*.iff
+*.pict
+*.dds
+*.xcf
+*.exr
+*.hdr
+
+# Keep small images for documentation
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.svg
+
+# ==============================================================================
+# BLENDER & 3D SOFTWARE GITIGNORE
+# ==============================================================================
+
+# Blender
+*.blend
+*.blend1
+*.blend2
+blender-*/
 *.pkl
+
+# Maya
+*.ma
+*.mb
+*.mel
+
+# 3ds Max
+*.max
+
+# ==============================================================================
+# DEVELOPMENT TOOLS GITIGNORE
+# ==============================================================================
+
+# Unity Hub and installation files
+*UnityHub.AppImage*
+*squashfs-root*
+*Unity/Hub/Editor/*/
+
+# Archive files
+*.tar.xz
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Build tools
+organized/bin/blender
+organized/blender-*
+*tools*
+
+# Logs and temporary files
+*log*
+*.log
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# ==============================================================================
+# PROJECT SPECIFIC EXCEPTIONS
+# ==============================================================================
+
+# Keep essential Unity Editor scripts
+!/mnt/wsl/bpyutils2/headlessunityVRChatPhysBonesSemiAutoInstaller/Assets/Editor/
+!/mnt/wsl/bpyutils2/headlessunityVRChatPhysBonesSemiAutoInstaller/Assets/scene/
+/mnt/wsl/bpyutils2/headlessunityVRChatPhysBonesSemiAutoInstaller/Assets/scene/*.meta
+
+# Keep configuration and documentation
+!*.md
+!*.txt
+!*.sh
+!*.cs
+!*.json
+!*.yml
+!*.yaml
+
+# Keep analysis output but not Unity logs
+!/mnt/wsl/bpyutils2/headlessunityVRChatPhysBonesSemiAutoInstaller/data/output/*.txt
+/mnt/wsl/bpyutils2/headlessunityVRChatPhysBonesSemiAutoInstaller/data/output/unity.log
+
+# Exclude Pielotopica plugins (large)
+*Pielotopica*
+
+# Exclude Kiseru plugins (large)  
 *fbx-weight-transfer-unity/unity-scripts/Kiseru*
 *Kiseru*
-*tools*
-*log*
-*Pielotopica*
-organized/bin/blender
-organized/blender-4.0.2-linux-x64.tar.xz
-organized/blender-4.0.2-linux-x64/
+
+# Exclude test files
 *test*
+
+# ==============================================================================
+# ADDITIONAL EXCLUSIONS
+# ==============================================================================
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

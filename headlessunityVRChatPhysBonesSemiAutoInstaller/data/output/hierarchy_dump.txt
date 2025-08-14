@@ -1,0 +1,565 @@
+=== Scene Hierarchy Dump: MarvelousDesigner ===
+Generated: 08/14/2025 15:06:44
+Root objects: 3
+
+nadena.dev.ndmf__Activator | nadena.dev.ndmf__Activator
+GestureManager | GestureManager
+SUN_Yukata Variant Variant | SUN_Yukata Variant Variant [Animator]
+  Armature.JamCommon | SUN_Yukata Variant Variant/Armature.JamCommon
+    IK_Arm_L | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_L
+      IK_Arm_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_L/IK_Arm_L_end
+    IK_Arm_R | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_R
+      IK_Arm_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_R/IK_Arm_R_end
+    IK_Leg_L | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_L
+      IK_Leg_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_L/IK_Leg_L_end
+    IK_Leg_R | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_R
+      IK_Leg_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_R/IK_Leg_R_end
+    Root | SUN_Yukata Variant Variant/Armature.JamCommon/Root
+      Hips | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips
+        HipRoot | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot
+          HipRoot_L.001 | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+            HipRoot_L.001_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+          HipRoot_R.001 | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+            HipRoot_R.001_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+        Spine | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine
+          Chest | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest
+            UpperChest | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest
+              BustRoot | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+                Bust_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L
+                  Bust_L.001 | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001
+                    Bust_L.001_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001/Bust_L.001_end
+                Bust_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R
+                  Bust_R.001 | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001
+                    Bust_R.001_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001/Bust_R.001_end
+              Neck | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+                Head | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+                  eye_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L
+                    eye_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end
+                  eye_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R
+                    eye_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end
+              Shoulder_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+                UpperArm_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+                  LowerArm_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+                    Hand_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+                      Index_Proximal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L
+                        Index_Intermediate_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+                          Index_Distal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+                            Index_Distal_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L/Index_Distal_L_end
+                      Little_Proximal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L
+                        Little_Intermediate_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L
+                          Little_Distal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L
+                            Little_Distal_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L/Little_Distal_L_end
+                      Middle_Proximal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L
+                        Middle_Intermediate_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+                          Middle_Distal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+                            Middle_Distal_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L/Middle_Distal_L_end
+                      Ring_Proximal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L
+                        Ring_Intermediate_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+                          Ring_Distal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+                            Ring_Distal_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L/Ring_Distal_L_end
+                      Thumb_Proximal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L
+                        Thumb_Intermediate_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+                          Thumb_Distal_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+                            Thumb_Distal_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end
+              Shoulder_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R
+                UpperArm_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+                  LowerArm_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+                    Hand_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+                      Index_Proximal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R
+                        Index_Intermediate_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+                          Index_Distal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R
+                            Index_Distal_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R/Index_Distal_R_end
+                      Little_Proximal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R
+                        Little_Intermediate_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R
+                          Little_Distal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R
+                            Little_Distal_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R/Little_Distal_R_end
+                      Middle_Proximal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R
+                        Middle_Intermediate_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+                          Middle_Distal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+                            Middle_Distal_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R/Middle_Distal_R_end
+                      Ring_Proximal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R
+                        Ring_Intermediate_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+                          Ring_Distal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+                            Ring_Distal_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R/Ring_Distal_R_end
+                      Thumb_Proximal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R
+                        Thumb_Intermediate_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+                          Thumb_Distal_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+                            Thumb_Distal_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end
+        UpperLeg_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L
+          LowerLeg_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L
+            Foot_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+              Toes_L | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L
+                Toes_L_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end
+        UpperLeg_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R
+          LowerLeg_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R
+            Foot_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R
+              Toes_R | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R
+                Toes_R_end | SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end
+  Body | SUN_Yukata Variant Variant/Body [SkinnedMeshRenderer]
+  Bodybody | SUN_Yukata Variant Variant/Bodybody [SkinnedMeshRenderer]
+  FaceEmoPrefab | SUN_Yukata Variant Variant/FaceEmoPrefab
+    FaceEmo_IndicatorSound (Missing Prefab with guid: ff2776afeb0412e4595ffb3207ce4e74) | SUN_Yukata Variant Variant/FaceEmoPrefab/FaceEmo_IndicatorSound (Missing Prefab with guid: ff2776afeb0412e4595ffb3207ce4e74)
+    FaceEmo_EmoteLocker (Missing Prefab with guid: a930c82b803f1ab40b03edb55045774a) | SUN_Yukata Variant Variant/FaceEmoPrefab/FaceEmo_EmoteLocker (Missing Prefab with guid: a930c82b803f1ab40b03edb55045774a)
+  eyeControl | SUN_Yukata Variant Variant/eyeControl
+  eyeFX | SUN_Yukata Variant Variant/eyeFX
+  BustPB | SUN_Yukata Variant Variant/BustPB
+  ElegantWaveRibbonSUN Variant | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant
+    PB_Back | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/PB_Back
+    PB_Tail | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/PB_Tail
+    PB_Ribbon | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/PB_Ribbon
+    PB_Side | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/PB_Side
+    PB_Front | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/PB_Front
+    Armature.ElegantWave | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave
+      Hips | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips
+        Spine | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine
+          Chest | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest
+            UpperChest | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest
+              Neck | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck
+                Head | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head
+                  HairRoot.Back | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back
+                    HairRoot.Back.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002
+                      HairRoot.Back.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003
+                        HairRoot.Back.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003/HairRoot.Back.004
+                          HairRoot.Back.005 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003/HairRoot.Back.004/HairRoot.Back.005
+                            HairRoot.Back.005_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003/HairRoot.Back.004/HairRoot.Back.005/HairRoot.Back.005_end
+                    HairRoot.Back_L.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001
+                      HairRoot.Back_L.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002
+                        HairRoot.Back_L.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002/HairRoot.Back_L.003
+                          HairRoot.Back_L.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002/HairRoot.Back_L.003/HairRoot.Back_L.004
+                            HairRoot.Back_L.004_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002/HairRoot.Back_L.003/HairRoot.Back_L.004/HairRoot.Back_L.004_end
+                    HairRoot.Back_L.006 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006
+                      HairRoot.Back_L.007 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007
+                        HairRoot.Back_L.008 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007/HairRoot.Back_L.008
+                          HairRoot.Back_L.009 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007/HairRoot.Back_L.008/HairRoot.Back_L.009
+                            HairRoot.Back_L.009_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007/HairRoot.Back_L.008/HairRoot.Back_L.009/HairRoot.Back_L.009_end
+                    HairRoot.Back_R.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001
+                      HairRoot.Back_R.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002
+                        HairRoot.Back_R.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002/HairRoot.Back_R.003
+                          HairRoot.Back_R.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002/HairRoot.Back_R.003/HairRoot.Back_R.004
+                            HairRoot.Back_R.004_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002/HairRoot.Back_R.003/HairRoot.Back_R.004/HairRoot.Back_R.004_end
+                    HairRoot.Back_R.006 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006
+                      HairRoot.Back_R.007 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007
+                        HairRoot.Back_R.008 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007/HairRoot.Back_R.008
+                          HairRoot.Back_R.009 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007/HairRoot.Back_R.008/HairRoot.Back_R.009
+                            HairRoot.Back_R.009_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007/HairRoot.Back_R.008/HairRoot.Back_R.009/HairRoot.Back_R.009_end
+                  HairRoot.Dango | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango
+                    HairRoot.Dango_L.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001
+                      HairRoot.Dango_L.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001/HairRoot.Dango_L.002
+                        HairRoot.Dango_L.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001/HairRoot.Dango_L.002/HairRoot.Dango_L.003
+                          HairRoot.Dango_L.003_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001/HairRoot.Dango_L.002/HairRoot.Dango_L.003/HairRoot.Dango_L.003_end
+                    HairRoot.Dango_L.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004
+                      HairRoot.Dango_L.005 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004/HairRoot.Dango_L.005
+                        HairRoot.Dango_L.006 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004/HairRoot.Dango_L.005/HairRoot.Dango_L.006
+                          HairRoot.Dango_L.006_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004/HairRoot.Dango_L.005/HairRoot.Dango_L.006/HairRoot.Dango_L.006_end
+                    HairRoot.Dango_L.007 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007
+                      HairRoot.Dango_L.008 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007/HairRoot.Dango_L.008
+                        HairRoot.Dango_L.009 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007/HairRoot.Dango_L.008/HairRoot.Dango_L.009
+                          HairRoot.Dango_L.009_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007/HairRoot.Dango_L.008/HairRoot.Dango_L.009/HairRoot.Dango_L.009_end
+                    HairRoot.Dango_R.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001
+                      HairRoot.Dango_R.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001/HairRoot.Dango_R.002
+                        HairRoot.Dango_R.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001/HairRoot.Dango_R.002/HairRoot.Dango_R.003
+                          HairRoot.Dango_R.003_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001/HairRoot.Dango_R.002/HairRoot.Dango_R.003/HairRoot.Dango_R.003_end
+                    HairRoot.Dango_R.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004
+                      HairRoot.Dango_R.005 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004/HairRoot.Dango_R.005
+                        HairRoot.Dango_R.006 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004/HairRoot.Dango_R.005/HairRoot.Dango_R.006
+                          HairRoot.Dango_R.006_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004/HairRoot.Dango_R.005/HairRoot.Dango_R.006/HairRoot.Dango_R.006_end
+                    HairRoot.Dango_R.007 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007
+                      HairRoot.Dango_R.008 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007/HairRoot.Dango_R.008
+                        HairRoot.Dango_R.009 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007/HairRoot.Dango_R.008/HairRoot.Dango_R.009
+                          HairRoot.Dango_R.009_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007/HairRoot.Dango_R.008/HairRoot.Dango_R.009/HairRoot.Dango_R.009_end
+                  HairRoot.FMain | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain
+                    HairRoot.Main.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.004
+                      HairRoot.Main.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.004/HairRoot.Main.003
+                        HairRoot.Main.003_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.004/HairRoot.Main.003/HairRoot.Main.003_end
+                    HairRoot.Main.005 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.005
+                      HairRoot.Main.008 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.005/HairRoot.Main.008
+                        HairRoot.Main.008_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.005/HairRoot.Main.008/HairRoot.Main.008_end
+                    HairRoot.Main.007 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.007
+                      HairRoot.Main.006 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.007/HairRoot.Main.006
+                        HairRoot.Main.006_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.007/HairRoot.Main.006/HairRoot.Main.006_end
+                    HairRoot.Main.010 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.010
+                      HairRoot.Main.009 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.010/HairRoot.Main.009
+                        HairRoot.Main.009_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.010/HairRoot.Main.009/HairRoot.Main.009_end
+                    HairRoot.Main.011 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.011
+                      HairRoot.Main.012 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.011/HairRoot.Main.012
+                        HairRoot.Main.012_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.011/HairRoot.Main.012/HairRoot.Main.012_end
+                    HairRoot.Main.013 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.013
+                      HairRoot.Main.014 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.013/HairRoot.Main.014
+                        HairRoot.Main.014_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.013/HairRoot.Main.014/HairRoot.Main.014_end
+                  HairRoot.FSide | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide
+                    HairRoot.FSide_L.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001
+                      HairRoot.FSide_L.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002
+                        HairRoot.FSide_L.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002/HairRoot.FSide_L.003
+                          HairRoot.FSide_L.007 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002/HairRoot.FSide_L.003/HairRoot.FSide_L.007
+                            HairRoot.FSide_L.007_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002/HairRoot.FSide_L.003/HairRoot.FSide_L.007/HairRoot.FSide_L.007_end
+                    HairRoot.FSide_L.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004
+                      HairRoot.FSide_L.005 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004/HairRoot.FSide_L.005
+                        HairRoot.FSide_L.006 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004/HairRoot.FSide_L.005/HairRoot.FSide_L.006
+                          HairRoot.FSide_L.006_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004/HairRoot.FSide_L.005/HairRoot.FSide_L.006/HairRoot.FSide_L.006_end
+                    HairRoot.FSide_L.008 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.008
+                      HairRoot.FSide_L.009 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.008/HairRoot.FSide_L.009
+                        HairRoot.FSide_L.009_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.008/HairRoot.FSide_L.009/HairRoot.FSide_L.009_end
+                    HairRoot.FSide_R.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001
+                      HairRoot.FSide_R.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002
+                        HairRoot.FSide_R.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002/HairRoot.FSide_R.003
+                          HairRoot.FSide_R.007 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002/HairRoot.FSide_R.003/HairRoot.FSide_R.007
+                            HairRoot.FSide_R.007_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002/HairRoot.FSide_R.003/HairRoot.FSide_R.007/HairRoot.FSide_R.007_end
+                    HairRoot.FSide_R.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004
+                      HairRoot.FSide_R.005 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004/HairRoot.FSide_R.005
+                        HairRoot.FSide_R.006 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004/HairRoot.FSide_R.005/HairRoot.FSide_R.006
+                          HairRoot.FSide_R.006_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004/HairRoot.FSide_R.005/HairRoot.FSide_R.006/HairRoot.FSide_R.006_end
+                    HairRoot.FSide_R.008 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.008
+                      HairRoot.FSide_R.009 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.008/HairRoot.FSide_R.009
+                        HairRoot.FSide_R.009_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.008/HairRoot.FSide_R.009/HairRoot.FSide_R.009_end
+                  HairRoot.Ribbon | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon
+                    HairRoot.Ribbon_L.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.001
+                      HairRoot.Ribbon_L.001_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.001/HairRoot.Ribbon_L.001_end
+                    HairRoot.Ribbon_L.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.002
+                      HairRoot.Ribbon_L.002_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.002/HairRoot.Ribbon_L.002_end
+                    HairRoot.Ribbon_L.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.003
+                      HairRoot.Ribbon_L.003_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.003/HairRoot.Ribbon_L.003_end
+                    HairRoot.Ribbon_L.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.004
+                      HairRoot.Ribbon_L.004_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.004/HairRoot.Ribbon_L.004_end
+                    HairRoot.Ribbon_R.001 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.001
+                      HairRoot.Ribbon_R.001_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.001/HairRoot.Ribbon_R.001_end
+                    HairRoot.Ribbon_R.002 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.002
+                      HairRoot.Ribbon_R.002_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.002/HairRoot.Ribbon_R.002_end
+                    HairRoot.Ribbon_R.003 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.003
+                      HairRoot.Ribbon_R.003_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.003/HairRoot.Ribbon_R.003_end
+                    HairRoot.Ribbon_R.004 | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.004
+                      HairRoot.Ribbon_R.004_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.004/HairRoot.Ribbon_R.004_end
+              Shoulder_L | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L
+                UpperArm_L | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+                  LowerArm_L | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+                    Hand_L | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+                      Hand_L_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Hand_L_end
+              Shoulder_R | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R
+                UpperArm_R | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+                  LowerArm_R | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+                    Hand_R | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+                      Hand_R_end | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Hand_R_end
+    ElegantWave | SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/ElegantWave [SkinnedMeshRenderer]
+  2025-08-12-3_SUN_wear_with_weights_fixed | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed
+    Armature.JamCommon | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon
+      Root | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root
+        Hips | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips
+          HipRoot | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot
+            HipRoot_L.001 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+              HipRoot_L.001_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+                HipRoot_L.001_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+                  HipRoot_L.001_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end/HipRoot_L.001_end_end_end
+            HipRoot_R.001 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+              HipRoot_R.001_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+                HipRoot_R.001_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+                  HipRoot_R.001_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end/HipRoot_R.001_end_end_end
+          Spine | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine
+            Chest | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest
+              UpperChest | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest
+                BustRoot | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+                  Bust_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L
+                    Bust_L.001 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001
+                      Bust_L.001_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001/Bust_L.001_end
+                        Bust_L.001_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001/Bust_L.001_end/Bust_L.001_end_end
+                          Bust_L.001_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001/Bust_L.001_end/Bust_L.001_end_end/Bust_L.001_end_end_end
+                  Bust_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R
+                    Bust_R.001 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001
+                      Bust_R.001_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001/Bust_R.001_end
+                        Bust_R.001_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001/Bust_R.001_end/Bust_R.001_end_end
+                          Bust_R.001_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001/Bust_R.001_end/Bust_R.001_end_end/Bust_R.001_end_end_end
+                Neck | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+                  Head | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+                    eye_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L
+                      eye_L_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end
+                        eye_L_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end/eye_L_end_end
+                          eye_L_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end/eye_L_end_end/eye_L_end_end_end
+                    eye_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R
+                      eye_R_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end
+                        eye_R_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end/eye_R_end_end
+                          eye_R_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end/eye_R_end_end/eye_R_end_end_end
+                Shoulder_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+                  UpperArm_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+                    LowerArm_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+                      Hand_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+                        Index_Proximal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L
+                          Index_Intermediate_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+                            Index_Distal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+                              Index_Distal_L_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L/Index_Distal_L_end
+                                Index_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L/Index_Distal_L_end/Index_Distal_L_end_end
+                                  Index_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L/Index_Distal_L_end/Index_Distal_L_end_end/Index_Distal_L_end_end_end
+                        Little_Proximal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L
+                          Little_Intermediate_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L
+                            Little_Distal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L
+                              Little_Distal_L_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L/Little_Distal_L_end
+                                Little_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L/Little_Distal_L_end/Little_Distal_L_end_end
+                                  Little_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L/Little_Distal_L_end/Little_Distal_L_end_end/Little_Distal_L_end_end_end
+                        Middle_Proximal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L
+                          Middle_Intermediate_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+                            Middle_Distal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+                              Middle_Distal_L_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L/Middle_Distal_L_end
+                                Middle_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L/Middle_Distal_L_end/Middle_Distal_L_end_end
+                                  Middle_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L/Middle_Distal_L_end/Middle_Distal_L_end_end/Middle_Distal_L_end_end_end
+                        Ring_Proximal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L
+                          Ring_Intermediate_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+                            Ring_Distal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+                              Ring_Distal_L_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L/Ring_Distal_L_end
+                                Ring_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L/Ring_Distal_L_end/Ring_Distal_L_end_end
+                                  Ring_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L/Ring_Distal_L_end/Ring_Distal_L_end_end/Ring_Distal_L_end_end_end
+                        Thumb_Proximal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L
+                          Thumb_Intermediate_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+                            Thumb_Distal_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+                              Thumb_Distal_L_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end
+                                Thumb_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end
+                                  Thumb_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end/Thumb_Distal_L_end_end_end
+                Shoulder_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R
+                  UpperArm_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+                    LowerArm_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+                      Hand_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+                        Index_Proximal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R
+                          Index_Intermediate_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+                            Index_Distal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R
+                              Index_Distal_R_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R/Index_Distal_R_end
+                                Index_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R/Index_Distal_R_end/Index_Distal_R_end_end
+                                  Index_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R/Index_Distal_R_end/Index_Distal_R_end_end/Index_Distal_R_end_end_end
+                        Little_Proximal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R
+                          Little_Intermediate_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R
+                            Little_Distal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R
+                              Little_Distal_R_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R/Little_Distal_R_end
+                                Little_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R/Little_Distal_R_end/Little_Distal_R_end_end
+                                  Little_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R/Little_Distal_R_end/Little_Distal_R_end_end/Little_Distal_R_end_end_end
+                        Middle_Proximal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R
+                          Middle_Intermediate_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+                            Middle_Distal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+                              Middle_Distal_R_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R/Middle_Distal_R_end
+                                Middle_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R/Middle_Distal_R_end/Middle_Distal_R_end_end
+                                  Middle_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R/Middle_Distal_R_end/Middle_Distal_R_end_end/Middle_Distal_R_end_end_end
+                        Ring_Proximal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R
+                          Ring_Intermediate_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+                            Ring_Distal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+                              Ring_Distal_R_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R/Ring_Distal_R_end
+                                Ring_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R/Ring_Distal_R_end/Ring_Distal_R_end_end
+                                  Ring_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R/Ring_Distal_R_end/Ring_Distal_R_end_end/Ring_Distal_R_end_end_end
+                        Thumb_Proximal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R
+                          Thumb_Intermediate_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+                            Thumb_Distal_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+                              Thumb_Distal_R_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end
+                                Thumb_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end
+                                  Thumb_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end/Thumb_Distal_R_end_end_end
+          UpperLeg_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L
+            LowerLeg_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L
+              Foot_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+                Toes_L | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L
+                  Toes_L_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end
+                    Toes_L_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end
+                      Toes_L_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end/Toes_L_end_end_end
+          UpperLeg_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R
+            LowerLeg_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R
+              Foot_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R
+                Toes_R | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R
+                  Toes_R_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end
+                    Toes_R_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end
+                      Toes_R_end_end_end | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end/Toes_R_end_end_end
+    BindingPattern_46871 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/BindingPattern_46871 [SkinnedMeshRenderer]
+    Body | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body [SkinnedMeshRenderer]
+    Body_Back | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body_Back [SkinnedMeshRenderer]
+    Body_Front_2 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body_Front_2 [SkinnedMeshRenderer]
+    Body_Front_4 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body_Front_4 [SkinnedMeshRenderer]
+    Body_Front_5 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body_Front_5 [SkinnedMeshRenderer]
+    Body_Front_6 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body_Front_6 [SkinnedMeshRenderer]
+    Body_Front_7 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body_Front_7 [SkinnedMeshRenderer]
+    Body_Front_8 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Body_Front_8 [SkinnedMeshRenderer]
+    Bodybody | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Bodybody [SkinnedMeshRenderer]
+    Object | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object [SkinnedMeshRenderer]
+    Object.001 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.001 [SkinnedMeshRenderer]
+    Object.002 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.002 [SkinnedMeshRenderer]
+    Object.003 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.003 [SkinnedMeshRenderer]
+    Object.004 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.004 [SkinnedMeshRenderer]
+    Object.005 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.005 [SkinnedMeshRenderer]
+    Object.006 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.006 [SkinnedMeshRenderer]
+    Object.007 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.007 [SkinnedMeshRenderer]
+    Object.008 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.008 [SkinnedMeshRenderer]
+    Object.009 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.009 [SkinnedMeshRenderer]
+    Object.010 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.010 [SkinnedMeshRenderer]
+    Object.011 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.011 [SkinnedMeshRenderer]
+    Object.012 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.012 [SkinnedMeshRenderer]
+    Object.013 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.013 [SkinnedMeshRenderer]
+    Object.014 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.014 [SkinnedMeshRenderer]
+    Object.015 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.015 [SkinnedMeshRenderer]
+    Object.016 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.016 [SkinnedMeshRenderer]
+    Object.017 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.017 [SkinnedMeshRenderer]
+    Object.018 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.018 [SkinnedMeshRenderer]
+    Object.019 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Object.019 [SkinnedMeshRenderer]
+    PaddingPattern_353039 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/PaddingPattern_353039 [SkinnedMeshRenderer]
+    Pattern_589370 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_589370 [SkinnedMeshRenderer]
+    Pattern_589371 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_589371 [SkinnedMeshRenderer]
+    Pattern_589372 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_589372 [SkinnedMeshRenderer]
+    Pattern_589373 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_589373 [SkinnedMeshRenderer]
+    Pattern_2331821 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_2331821 [SkinnedMeshRenderer]
+    Pattern_2331822 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_2331822 [SkinnedMeshRenderer]
+    Pattern_2362657 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_2362657 [SkinnedMeshRenderer]
+    Pattern_2404381 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_2404381 [SkinnedMeshRenderer]
+    Pattern_2410115 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_2410115 [SkinnedMeshRenderer]
+    Pattern_2410116 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Pattern_2410116 [SkinnedMeshRenderer]
+    Sleeves_6 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Sleeves_6 [SkinnedMeshRenderer]
+    Sleeves_8 | SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Sleeves_8 [SkinnedMeshRenderer]
+  2025-08-13_rigged | SUN_Yukata Variant Variant/2025-08-13_rigged
+    Armature.JamCommon | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon
+      Root | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root
+        Hips | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips
+          HipRoot | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+            HipRoot_L.001 | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+              HipRoot_L.001_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+                HipRoot_L.001_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+                  HipRoot_L.001_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end/HipRoot_L.001_end_end_end
+            HipRoot_R.001 | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+              HipRoot_R.001_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+                HipRoot_R.001_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+                  HipRoot_R.001_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end/HipRoot_R.001_end_end_end
+          Spine | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine
+            Chest | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest
+              UpperChest | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest
+                BustRoot | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+                  Bust_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L
+                    Bust_L.001 | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001
+                      Bust_L.001_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001/Bust_L.001_end
+                        Bust_L.001_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001/Bust_L.001_end/Bust_L.001_end_end
+                          Bust_L.001_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_L/Bust_L.001/Bust_L.001_end/Bust_L.001_end_end/Bust_L.001_end_end_end
+                  Bust_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R
+                    Bust_R.001 | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001
+                      Bust_R.001_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001/Bust_R.001_end
+                        Bust_R.001_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001/Bust_R.001_end/Bust_R.001_end_end
+                          Bust_R.001_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot/Bust_R/Bust_R.001/Bust_R.001_end/Bust_R.001_end_end/Bust_R.001_end_end_end
+                Neck | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+                  Head | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+                    eye_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L
+                      eye_L_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end
+                        eye_L_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end/eye_L_end_end
+                          eye_L_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end/eye_L_end_end/eye_L_end_end_end
+                    eye_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R
+                      eye_R_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end
+                        eye_R_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end/eye_R_end_end
+                          eye_R_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end/eye_R_end_end/eye_R_end_end_end
+                Shoulder_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+                  UpperArm_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+                    LowerArm_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+                      Hand_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+                        Index_Proximal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L
+                          Index_Intermediate_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+                            Index_Distal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+                              Index_Distal_L_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L/Index_Distal_L_end
+                                Index_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L/Index_Distal_L_end/Index_Distal_L_end_end
+                                  Index_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L/Index_Distal_L_end/Index_Distal_L_end_end/Index_Distal_L_end_end_end
+                        Little_Proximal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L
+                          Little_Intermediate_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L
+                            Little_Distal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L
+                              Little_Distal_L_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L/Little_Distal_L_end
+                                Little_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L/Little_Distal_L_end/Little_Distal_L_end_end
+                                  Little_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Little_Proximal_L/Little_Intermediate_L/Little_Distal_L/Little_Distal_L_end/Little_Distal_L_end_end/Little_Distal_L_end_end_end
+                        Middle_Proximal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L
+                          Middle_Intermediate_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+                            Middle_Distal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+                              Middle_Distal_L_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L/Middle_Distal_L_end
+                                Middle_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L/Middle_Distal_L_end/Middle_Distal_L_end_end
+                                  Middle_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L/Middle_Distal_L_end/Middle_Distal_L_end_end/Middle_Distal_L_end_end_end
+                        Ring_Proximal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L
+                          Ring_Intermediate_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+                            Ring_Distal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+                              Ring_Distal_L_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L/Ring_Distal_L_end
+                                Ring_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L/Ring_Distal_L_end/Ring_Distal_L_end_end
+                                  Ring_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L/Ring_Distal_L_end/Ring_Distal_L_end_end/Ring_Distal_L_end_end_end
+                        Thumb_Proximal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L
+                          Thumb_Intermediate_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+                            Thumb_Distal_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+                              Thumb_Distal_L_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end
+                                Thumb_Distal_L_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end
+                                  Thumb_Distal_L_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end/Thumb_Distal_L_end_end_end
+                Shoulder_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R
+                  UpperArm_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+                    LowerArm_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+                      Hand_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+                        Index_Proximal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R
+                          Index_Intermediate_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+                            Index_Distal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R
+                              Index_Distal_R_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R/Index_Distal_R_end
+                                Index_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R/Index_Distal_R_end/Index_Distal_R_end_end
+                                  Index_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R/Index_Distal_R/Index_Distal_R_end/Index_Distal_R_end_end/Index_Distal_R_end_end_end
+                        Little_Proximal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R
+                          Little_Intermediate_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R
+                            Little_Distal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R
+                              Little_Distal_R_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R/Little_Distal_R_end
+                                Little_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R/Little_Distal_R_end/Little_Distal_R_end_end
+                                  Little_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Little_Proximal_R/Little_Intermediate_R/Little_Distal_R/Little_Distal_R_end/Little_Distal_R_end_end/Little_Distal_R_end_end_end
+                        Middle_Proximal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R
+                          Middle_Intermediate_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+                            Middle_Distal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+                              Middle_Distal_R_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R/Middle_Distal_R_end
+                                Middle_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R/Middle_Distal_R_end/Middle_Distal_R_end_end
+                                  Middle_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R/Middle_Distal_R_end/Middle_Distal_R_end_end/Middle_Distal_R_end_end_end
+                        Ring_Proximal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R
+                          Ring_Intermediate_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+                            Ring_Distal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+                              Ring_Distal_R_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R/Ring_Distal_R_end
+                                Ring_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R/Ring_Distal_R_end/Ring_Distal_R_end_end
+                                  Ring_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R/Ring_Distal_R_end/Ring_Distal_R_end_end/Ring_Distal_R_end_end_end
+                        Thumb_Proximal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R
+                          Thumb_Intermediate_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+                            Thumb_Distal_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+                              Thumb_Distal_R_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end
+                                Thumb_Distal_R_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end
+                                  Thumb_Distal_R_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end/Thumb_Distal_R_end_end_end
+          UpperLeg_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L
+            LowerLeg_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L
+              Foot_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+                Toes_L | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L
+                  Toes_L_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end
+                    Toes_L_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end
+                      Toes_L_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end/Toes_L_end_end_end
+          UpperLeg_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R
+            LowerLeg_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R
+              Foot_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R
+                Toes_R | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R
+                  Toes_R_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end
+                    Toes_R_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end
+                      Toes_R_end_end_end | SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end/Toes_R_end_end_end
+    BindingPattern_46871 | SUN_Yukata Variant Variant/2025-08-13_rigged/BindingPattern_46871 [SkinnedMeshRenderer]
+    Body | SUN_Yukata Variant Variant/2025-08-13_rigged/Body [SkinnedMeshRenderer]
+    Body_Back | SUN_Yukata Variant Variant/2025-08-13_rigged/Body_Back [SkinnedMeshRenderer]
+    Body_Front_2 | SUN_Yukata Variant Variant/2025-08-13_rigged/Body_Front_2 [SkinnedMeshRenderer]
+    Body_Front_4 | SUN_Yukata Variant Variant/2025-08-13_rigged/Body_Front_4 [SkinnedMeshRenderer]
+    Body_Front_5 | SUN_Yukata Variant Variant/2025-08-13_rigged/Body_Front_5 [SkinnedMeshRenderer]
+    Body_Front_6 | SUN_Yukata Variant Variant/2025-08-13_rigged/Body_Front_6 [SkinnedMeshRenderer]
+    Body_Front_7 | SUN_Yukata Variant Variant/2025-08-13_rigged/Body_Front_7 [SkinnedMeshRenderer]
+    Body_Front_8 | SUN_Yukata Variant Variant/2025-08-13_rigged/Body_Front_8 [SkinnedMeshRenderer]
+    Bodybody | SUN_Yukata Variant Variant/2025-08-13_rigged/Bodybody [SkinnedMeshRenderer]
+    Object | SUN_Yukata Variant Variant/2025-08-13_rigged/Object [SkinnedMeshRenderer]
+    Object.001 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.001 [SkinnedMeshRenderer]
+    Object.002 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.002 [SkinnedMeshRenderer]
+    Object.003 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.003 [SkinnedMeshRenderer]
+    Object.004 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.004 [SkinnedMeshRenderer]
+    Object.005 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.005 [SkinnedMeshRenderer]
+    Object.006 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.006 [SkinnedMeshRenderer]
+    Object.007 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.007 [SkinnedMeshRenderer]
+    Object.008 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.008 [SkinnedMeshRenderer]
+    Object.009 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.009 [SkinnedMeshRenderer]
+    Object.010 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.010 [SkinnedMeshRenderer]
+    Object.011 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.011 [SkinnedMeshRenderer]
+    Object.012 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.012 [SkinnedMeshRenderer]
+    Object.013 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.013 [SkinnedMeshRenderer]
+    Object.014 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.014 [SkinnedMeshRenderer]
+    Object.015 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.015 [SkinnedMeshRenderer]
+    Object.016 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.016 [SkinnedMeshRenderer]
+    Object.017 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.017 [SkinnedMeshRenderer]
+    Object.018 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.018 [SkinnedMeshRenderer]
+    Object.019 | SUN_Yukata Variant Variant/2025-08-13_rigged/Object.019 [SkinnedMeshRenderer]
+    PaddingPattern_353039 | SUN_Yukata Variant Variant/2025-08-13_rigged/PaddingPattern_353039 [SkinnedMeshRenderer]
+    Pattern_589370 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_589370 [SkinnedMeshRenderer]
+    Pattern_589371 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_589371 [SkinnedMeshRenderer]
+    Pattern_589372 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_589372 [SkinnedMeshRenderer]
+    Pattern_589373 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_589373 [SkinnedMeshRenderer]
+    Pattern_2331821 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_2331821 [SkinnedMeshRenderer]
+    Pattern_2331822 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_2331822 [SkinnedMeshRenderer]
+    Pattern_2362657 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_2362657 [SkinnedMeshRenderer]
+    Pattern_2404381 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_2404381 [SkinnedMeshRenderer]
+    Pattern_2410115 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_2410115 [SkinnedMeshRenderer]
+    Pattern_2410116 | SUN_Yukata Variant Variant/2025-08-13_rigged/Pattern_2410116 [SkinnedMeshRenderer]
+    Sleeves_6 | SUN_Yukata Variant Variant/2025-08-13_rigged/Sleeves_6 [SkinnedMeshRenderer]
+    Sleeves_8 | SUN_Yukata Variant Variant/2025-08-13_rigged/Sleeves_8 [SkinnedMeshRenderer]

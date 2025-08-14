@@ -1,0 +1,25 @@
+=== DETECTED ARMATURE HIERARCHY ===
+Scene: MarvelousDesigner
+Generated: Thu Aug 14 15:06:44 JST 2025
+
+Found Armature Structure:
+✓ Armature.JamCommon
+  └── Root
+      └── Hips
+
+=== REFERENCE PATHS ===
+    referencePath: Armature.JamCommon/Root
+    referencePath: Armature.JamCommon/Root/Hips
+
+=== ROOT BONE REFERENCES ===
+    targetObject: {fileID: 1915889968}
+  InheritBounds: 3
+  RootBone:
+    referencePath: Armature.JamCommon/Root
+    targetObject: {fileID: 1915889967}
+--
+    targetObject: {fileID: 1915889968}
+  InheritBounds: 3
+  RootBone:
+    referencePath: Armature.JamCommon/Root
+    targetObject: {fileID: 1915889967}

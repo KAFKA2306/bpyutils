@@ -1,0 +1,1744 @@
+=== Armature Structure Analysis ===
+Scene: MarvelousDesigner
+Generated: 08/14/2025 15:06:44
+
+Potential Armature: SUN_Yukata Variant Variant/Armature.JamCommon
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_L/IK_Arm_L_end
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Arm_R/IK_Arm_R_end
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_L/IK_Leg_L_end
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_R/IK_Leg_R_end
+Potential Armature: SUN_Yukata Variant Variant/Armature.JamCommon/Root
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips
+Potential Armature: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot
+Potential Armature: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+Potential Armature: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest
+Potential Armature: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R
+Bone Found: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003/HairRoot.Back.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003/HairRoot.Back.004/HairRoot.Back.005
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002/HairRoot.Back_L.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002/HairRoot.Back_L.003/HairRoot.Back_L.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007/HairRoot.Back_L.008
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007/HairRoot.Back_L.008/HairRoot.Back_L.009
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002/HairRoot.Back_R.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002/HairRoot.Back_R.003/HairRoot.Back_R.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007/HairRoot.Back_R.008
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007/HairRoot.Back_R.008/HairRoot.Back_R.009
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001/HairRoot.Dango_L.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001/HairRoot.Dango_L.002/HairRoot.Dango_L.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004/HairRoot.Dango_L.005
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004/HairRoot.Dango_L.005/HairRoot.Dango_L.006
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007/HairRoot.Dango_L.008
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007/HairRoot.Dango_L.008/HairRoot.Dango_L.009
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001/HairRoot.Dango_R.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001/HairRoot.Dango_R.002/HairRoot.Dango_R.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004/HairRoot.Dango_R.005
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004/HairRoot.Dango_R.005/HairRoot.Dango_R.006
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007/HairRoot.Dango_R.008
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007/HairRoot.Dango_R.008/HairRoot.Dango_R.009
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.004/HairRoot.Main.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.005
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.005/HairRoot.Main.008
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.007
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.007/HairRoot.Main.006
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.010
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.010/HairRoot.Main.009
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.011
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.011/HairRoot.Main.012
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.013
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.013/HairRoot.Main.014
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002/HairRoot.FSide_L.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002/HairRoot.FSide_L.003/HairRoot.FSide_L.007
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004/HairRoot.FSide_L.005
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004/HairRoot.FSide_L.005/HairRoot.FSide_L.006
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.008
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.008/HairRoot.FSide_L.009
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002/HairRoot.FSide_R.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002/HairRoot.FSide_R.003/HairRoot.FSide_R.007
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004/HairRoot.FSide_R.005
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004/HairRoot.FSide_R.005/HairRoot.FSide_R.006
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.008
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.008/HairRoot.FSide_R.009
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.004
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.001
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.002
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.003
+Potential Armature: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.004
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Hand_L_end
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Hand_R_end
+Bone Found: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/ElegantWave
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end/HipRoot_L.001_end_end_end
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end/HipRoot_R.001_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest
+Potential Armature: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end/Thumb_Distal_L_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end/Thumb_Distal_R_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end/Toes_L_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end/Toes_R_end_end_end
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end/HipRoot_L.001_end_end_end
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end/HipRoot_R.001_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest
+Potential Armature: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L/Thumb_Distal_L_end/Thumb_Distal_L_end_end/Thumb_Distal_L_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R/Thumb_Distal_R_end/Thumb_Distal_R_end_end/Thumb_Distal_R_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L/Toes_L/Toes_L_end/Toes_L_end_end/Toes_L_end_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end
+Bone Found: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_R/LowerLeg_R/Foot_R/Toes_R/Toes_R_end/Toes_R_end_end/Toes_R_end_end_end
+=== Summary ===
+Potential Armatures Found: 109
+Total Bones Found: 165
+
+=== Armature #1: Armature.JamCommon ===
+Full Path: SUN_Yukata Variant Variant/Armature.JamCommon
+Child Count: 5
+
+  HIP: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips
+  SPINE: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/Armature.JamCommon
+  LEG: SUN_Yukata Variant Variant/Armature.JamCommon/IK_Leg_L
+  FOOT: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+  ✓ Found 9 common bones
+
+Bone Hierarchy (first 3 levels):
+Armature.JamCommon
+  IK_Arm_L
+    IK_Arm_L_end
+  IK_Arm_R
+    IK_Arm_R_end
+  IK_Leg_L
+    IK_Leg_L_end
+  IK_Leg_R
+    IK_Leg_R_end
+  Root
+    Hips
+      HipRoot
+      Spine
+      UpperLeg_L
+      UpperLeg_R
+
+=== Armature #2: Root ===
+Full Path: SUN_Yukata Variant Variant/Armature.JamCommon/Root
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips
+  SPINE: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+  LEG: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L
+  FOOT: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+  ✓ Found 9 common bones
+
+Bone Hierarchy (first 3 levels):
+Root
+  Hips
+    HipRoot
+      HipRoot_L.001
+      HipRoot_R.001
+    Spine
+      Chest
+    UpperLeg_L
+      LowerLeg_L
+    UpperLeg_R
+      LowerLeg_R
+
+=== Armature #3: HipRoot ===
+Full Path: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot
+Child Count: 2
+
+  HIP: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot
+  HipRoot_L.001
+    HipRoot_L.001_end
+  HipRoot_R.001
+    HipRoot_R.001_end
+
+=== Armature #4: HipRoot_L.001 ===
+Full Path: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_L.001
+  HipRoot_L.001_end
+
+=== Armature #5: HipRoot_R.001 ===
+Full Path: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_R.001
+  HipRoot_R.001_end
+
+=== Armature #6: BustRoot ===
+Full Path: SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+Child Count: 2
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+BustRoot
+  Bust_L
+    Bust_L.001
+      Bust_L.001_end
+  Bust_R
+    Bust_R.001
+      Bust_R.001_end
+
+=== Armature #7: Armature.ElegantWave ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips
+  SPINE: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave
+  LEG: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave
+  ✓ Found 8 common bones
+
+Bone Hierarchy (first 3 levels):
+Armature.ElegantWave
+  Hips
+    Spine
+      Chest
+
+=== Armature #8: HairRoot.Back ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back
+Child Count: 5
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back
+  HairRoot.Back.002
+    HairRoot.Back.003
+      HairRoot.Back.004
+  HairRoot.Back_L.001
+    HairRoot.Back_L.002
+      HairRoot.Back_L.003
+  HairRoot.Back_L.006
+    HairRoot.Back_L.007
+      HairRoot.Back_L.008
+  HairRoot.Back_R.001
+    HairRoot.Back_R.002
+      HairRoot.Back_R.003
+  HairRoot.Back_R.006
+    HairRoot.Back_R.007
+      HairRoot.Back_R.008
+
+=== Armature #9: HairRoot.Back.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back.002
+  HairRoot.Back.003
+    HairRoot.Back.004
+      HairRoot.Back.005
+
+=== Armature #10: HairRoot.Back.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back.003
+  HairRoot.Back.004
+    HairRoot.Back.005
+      HairRoot.Back.005_end
+
+=== Armature #11: HairRoot.Back.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003/HairRoot.Back.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back.004
+  HairRoot.Back.005
+    HairRoot.Back.005_end
+
+=== Armature #12: HairRoot.Back.005 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back.002/HairRoot.Back.003/HairRoot.Back.004/HairRoot.Back.005
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back.005
+  HairRoot.Back.005_end
+
+=== Armature #13: HairRoot.Back_L.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.001
+  HairRoot.Back_L.002
+    HairRoot.Back_L.003
+      HairRoot.Back_L.004
+
+=== Armature #14: HairRoot.Back_L.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.002
+  HairRoot.Back_L.003
+    HairRoot.Back_L.004
+      HairRoot.Back_L.004_end
+
+=== Armature #15: HairRoot.Back_L.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002/HairRoot.Back_L.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.003
+  HairRoot.Back_L.004
+    HairRoot.Back_L.004_end
+
+=== Armature #16: HairRoot.Back_L.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.001/HairRoot.Back_L.002/HairRoot.Back_L.003/HairRoot.Back_L.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.004
+  HairRoot.Back_L.004_end
+
+=== Armature #17: HairRoot.Back_L.006 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.006
+  HairRoot.Back_L.007
+    HairRoot.Back_L.008
+      HairRoot.Back_L.009
+
+=== Armature #18: HairRoot.Back_L.007 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.007
+  HairRoot.Back_L.008
+    HairRoot.Back_L.009
+      HairRoot.Back_L.009_end
+
+=== Armature #19: HairRoot.Back_L.008 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007/HairRoot.Back_L.008
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.008
+  HairRoot.Back_L.009
+    HairRoot.Back_L.009_end
+
+=== Armature #20: HairRoot.Back_L.009 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_L.006/HairRoot.Back_L.007/HairRoot.Back_L.008/HairRoot.Back_L.009
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_L.009
+  HairRoot.Back_L.009_end
+
+=== Armature #21: HairRoot.Back_R.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.001
+  HairRoot.Back_R.002
+    HairRoot.Back_R.003
+      HairRoot.Back_R.004
+
+=== Armature #22: HairRoot.Back_R.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.002
+  HairRoot.Back_R.003
+    HairRoot.Back_R.004
+      HairRoot.Back_R.004_end
+
+=== Armature #23: HairRoot.Back_R.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002/HairRoot.Back_R.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.003
+  HairRoot.Back_R.004
+    HairRoot.Back_R.004_end
+
+=== Armature #24: HairRoot.Back_R.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.001/HairRoot.Back_R.002/HairRoot.Back_R.003/HairRoot.Back_R.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.004
+  HairRoot.Back_R.004_end
+
+=== Armature #25: HairRoot.Back_R.006 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.006
+  HairRoot.Back_R.007
+    HairRoot.Back_R.008
+      HairRoot.Back_R.009
+
+=== Armature #26: HairRoot.Back_R.007 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.007
+  HairRoot.Back_R.008
+    HairRoot.Back_R.009
+      HairRoot.Back_R.009_end
+
+=== Armature #27: HairRoot.Back_R.008 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007/HairRoot.Back_R.008
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.008
+  HairRoot.Back_R.009
+    HairRoot.Back_R.009_end
+
+=== Armature #28: HairRoot.Back_R.009 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Back/HairRoot.Back_R.006/HairRoot.Back_R.007/HairRoot.Back_R.008/HairRoot.Back_R.009
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Back_R.009
+  HairRoot.Back_R.009_end
+
+=== Armature #29: HairRoot.Dango ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango
+Child Count: 6
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango
+  HairRoot.Dango_L.001
+    HairRoot.Dango_L.002
+      HairRoot.Dango_L.003
+  HairRoot.Dango_L.004
+    HairRoot.Dango_L.005
+      HairRoot.Dango_L.006
+  HairRoot.Dango_L.007
+    HairRoot.Dango_L.008
+      HairRoot.Dango_L.009
+  HairRoot.Dango_R.001
+    HairRoot.Dango_R.002
+      HairRoot.Dango_R.003
+  HairRoot.Dango_R.004
+    HairRoot.Dango_R.005
+      HairRoot.Dango_R.006
+  HairRoot.Dango_R.007
+    HairRoot.Dango_R.008
+      HairRoot.Dango_R.009
+
+=== Armature #30: HairRoot.Dango_L.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.001
+  HairRoot.Dango_L.002
+    HairRoot.Dango_L.003
+      HairRoot.Dango_L.003_end
+
+=== Armature #31: HairRoot.Dango_L.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001/HairRoot.Dango_L.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.002
+  HairRoot.Dango_L.003
+    HairRoot.Dango_L.003_end
+
+=== Armature #32: HairRoot.Dango_L.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.001/HairRoot.Dango_L.002/HairRoot.Dango_L.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.003
+  HairRoot.Dango_L.003_end
+
+=== Armature #33: HairRoot.Dango_L.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.004
+  HairRoot.Dango_L.005
+    HairRoot.Dango_L.006
+      HairRoot.Dango_L.006_end
+
+=== Armature #34: HairRoot.Dango_L.005 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004/HairRoot.Dango_L.005
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.005
+  HairRoot.Dango_L.006
+    HairRoot.Dango_L.006_end
+
+=== Armature #35: HairRoot.Dango_L.006 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.004/HairRoot.Dango_L.005/HairRoot.Dango_L.006
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.006
+  HairRoot.Dango_L.006_end
+
+=== Armature #36: HairRoot.Dango_L.007 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.007
+  HairRoot.Dango_L.008
+    HairRoot.Dango_L.009
+      HairRoot.Dango_L.009_end
+
+=== Armature #37: HairRoot.Dango_L.008 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007/HairRoot.Dango_L.008
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.008
+  HairRoot.Dango_L.009
+    HairRoot.Dango_L.009_end
+
+=== Armature #38: HairRoot.Dango_L.009 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_L.007/HairRoot.Dango_L.008/HairRoot.Dango_L.009
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_L.009
+  HairRoot.Dango_L.009_end
+
+=== Armature #39: HairRoot.Dango_R.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.001
+  HairRoot.Dango_R.002
+    HairRoot.Dango_R.003
+      HairRoot.Dango_R.003_end
+
+=== Armature #40: HairRoot.Dango_R.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001/HairRoot.Dango_R.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.002
+  HairRoot.Dango_R.003
+    HairRoot.Dango_R.003_end
+
+=== Armature #41: HairRoot.Dango_R.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.001/HairRoot.Dango_R.002/HairRoot.Dango_R.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.003
+  HairRoot.Dango_R.003_end
+
+=== Armature #42: HairRoot.Dango_R.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.004
+  HairRoot.Dango_R.005
+    HairRoot.Dango_R.006
+      HairRoot.Dango_R.006_end
+
+=== Armature #43: HairRoot.Dango_R.005 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004/HairRoot.Dango_R.005
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.005
+  HairRoot.Dango_R.006
+    HairRoot.Dango_R.006_end
+
+=== Armature #44: HairRoot.Dango_R.006 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.004/HairRoot.Dango_R.005/HairRoot.Dango_R.006
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.006
+  HairRoot.Dango_R.006_end
+
+=== Armature #45: HairRoot.Dango_R.007 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.007
+  HairRoot.Dango_R.008
+    HairRoot.Dango_R.009
+      HairRoot.Dango_R.009_end
+
+=== Armature #46: HairRoot.Dango_R.008 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007/HairRoot.Dango_R.008
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.008
+  HairRoot.Dango_R.009
+    HairRoot.Dango_R.009_end
+
+=== Armature #47: HairRoot.Dango_R.009 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Dango/HairRoot.Dango_R.007/HairRoot.Dango_R.008/HairRoot.Dango_R.009
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Dango_R.009
+  HairRoot.Dango_R.009_end
+
+=== Armature #48: HairRoot.FMain ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain
+Child Count: 6
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FMain
+  HairRoot.Main.004
+    HairRoot.Main.003
+      HairRoot.Main.003_end
+  HairRoot.Main.005
+    HairRoot.Main.008
+      HairRoot.Main.008_end
+  HairRoot.Main.007
+    HairRoot.Main.006
+      HairRoot.Main.006_end
+  HairRoot.Main.010
+    HairRoot.Main.009
+      HairRoot.Main.009_end
+  HairRoot.Main.011
+    HairRoot.Main.012
+      HairRoot.Main.012_end
+  HairRoot.Main.013
+    HairRoot.Main.014
+      HairRoot.Main.014_end
+
+=== Armature #49: HairRoot.Main.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.004
+  HairRoot.Main.003
+    HairRoot.Main.003_end
+
+=== Armature #50: HairRoot.Main.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.004/HairRoot.Main.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.003
+  HairRoot.Main.003_end
+
+=== Armature #51: HairRoot.Main.005 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.005
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.005
+  HairRoot.Main.008
+    HairRoot.Main.008_end
+
+=== Armature #52: HairRoot.Main.008 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.005/HairRoot.Main.008
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.008
+  HairRoot.Main.008_end
+
+=== Armature #53: HairRoot.Main.007 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.007
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.007
+  HairRoot.Main.006
+    HairRoot.Main.006_end
+
+=== Armature #54: HairRoot.Main.006 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.007/HairRoot.Main.006
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.006
+  HairRoot.Main.006_end
+
+=== Armature #55: HairRoot.Main.010 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.010
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.010
+  HairRoot.Main.009
+    HairRoot.Main.009_end
+
+=== Armature #56: HairRoot.Main.009 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.010/HairRoot.Main.009
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.009
+  HairRoot.Main.009_end
+
+=== Armature #57: HairRoot.Main.011 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.011
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.011
+  HairRoot.Main.012
+    HairRoot.Main.012_end
+
+=== Armature #58: HairRoot.Main.012 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.011/HairRoot.Main.012
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.012
+  HairRoot.Main.012_end
+
+=== Armature #59: HairRoot.Main.013 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.013
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.013
+  HairRoot.Main.014
+    HairRoot.Main.014_end
+
+=== Armature #60: HairRoot.Main.014 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FMain/HairRoot.Main.013/HairRoot.Main.014
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Main.014
+  HairRoot.Main.014_end
+
+=== Armature #61: HairRoot.FSide ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide
+Child Count: 6
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide
+  HairRoot.FSide_L.001
+    HairRoot.FSide_L.002
+      HairRoot.FSide_L.003
+  HairRoot.FSide_L.004
+    HairRoot.FSide_L.005
+      HairRoot.FSide_L.006
+  HairRoot.FSide_L.008
+    HairRoot.FSide_L.009
+      HairRoot.FSide_L.009_end
+  HairRoot.FSide_R.001
+    HairRoot.FSide_R.002
+      HairRoot.FSide_R.003
+  HairRoot.FSide_R.004
+    HairRoot.FSide_R.005
+      HairRoot.FSide_R.006
+  HairRoot.FSide_R.008
+    HairRoot.FSide_R.009
+      HairRoot.FSide_R.009_end
+
+=== Armature #62: HairRoot.FSide_L.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.001
+  HairRoot.FSide_L.002
+    HairRoot.FSide_L.003
+      HairRoot.FSide_L.007
+
+=== Armature #63: HairRoot.FSide_L.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.002
+  HairRoot.FSide_L.003
+    HairRoot.FSide_L.007
+      HairRoot.FSide_L.007_end
+
+=== Armature #64: HairRoot.FSide_L.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002/HairRoot.FSide_L.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.003
+  HairRoot.FSide_L.007
+    HairRoot.FSide_L.007_end
+
+=== Armature #65: HairRoot.FSide_L.007 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.001/HairRoot.FSide_L.002/HairRoot.FSide_L.003/HairRoot.FSide_L.007
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.007
+  HairRoot.FSide_L.007_end
+
+=== Armature #66: HairRoot.FSide_L.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.004
+  HairRoot.FSide_L.005
+    HairRoot.FSide_L.006
+      HairRoot.FSide_L.006_end
+
+=== Armature #67: HairRoot.FSide_L.005 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004/HairRoot.FSide_L.005
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.005
+  HairRoot.FSide_L.006
+    HairRoot.FSide_L.006_end
+
+=== Armature #68: HairRoot.FSide_L.006 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.004/HairRoot.FSide_L.005/HairRoot.FSide_L.006
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.006
+  HairRoot.FSide_L.006_end
+
+=== Armature #69: HairRoot.FSide_L.008 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.008
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.008
+  HairRoot.FSide_L.009
+    HairRoot.FSide_L.009_end
+
+=== Armature #70: HairRoot.FSide_L.009 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_L.008/HairRoot.FSide_L.009
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_L.009
+  HairRoot.FSide_L.009_end
+
+=== Armature #71: HairRoot.FSide_R.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.001
+  HairRoot.FSide_R.002
+    HairRoot.FSide_R.003
+      HairRoot.FSide_R.007
+
+=== Armature #72: HairRoot.FSide_R.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.002
+  HairRoot.FSide_R.003
+    HairRoot.FSide_R.007
+      HairRoot.FSide_R.007_end
+
+=== Armature #73: HairRoot.FSide_R.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002/HairRoot.FSide_R.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.003
+  HairRoot.FSide_R.007
+    HairRoot.FSide_R.007_end
+
+=== Armature #74: HairRoot.FSide_R.007 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.001/HairRoot.FSide_R.002/HairRoot.FSide_R.003/HairRoot.FSide_R.007
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.007
+  HairRoot.FSide_R.007_end
+
+=== Armature #75: HairRoot.FSide_R.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.004
+  HairRoot.FSide_R.005
+    HairRoot.FSide_R.006
+      HairRoot.FSide_R.006_end
+
+=== Armature #76: HairRoot.FSide_R.005 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004/HairRoot.FSide_R.005
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.005
+  HairRoot.FSide_R.006
+    HairRoot.FSide_R.006_end
+
+=== Armature #77: HairRoot.FSide_R.006 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.004/HairRoot.FSide_R.005/HairRoot.FSide_R.006
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.006
+  HairRoot.FSide_R.006_end
+
+=== Armature #78: HairRoot.FSide_R.008 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.008
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.008
+  HairRoot.FSide_R.009
+    HairRoot.FSide_R.009_end
+
+=== Armature #79: HairRoot.FSide_R.009 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.FSide/HairRoot.FSide_R.008/HairRoot.FSide_R.009
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.FSide_R.009
+  HairRoot.FSide_R.009_end
+
+=== Armature #80: HairRoot.Ribbon ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon
+Child Count: 8
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon
+  HairRoot.Ribbon_L.001
+    HairRoot.Ribbon_L.001_end
+  HairRoot.Ribbon_L.002
+    HairRoot.Ribbon_L.002_end
+  HairRoot.Ribbon_L.003
+    HairRoot.Ribbon_L.003_end
+  HairRoot.Ribbon_L.004
+    HairRoot.Ribbon_L.004_end
+  HairRoot.Ribbon_R.001
+    HairRoot.Ribbon_R.001_end
+  HairRoot.Ribbon_R.002
+    HairRoot.Ribbon_R.002_end
+  HairRoot.Ribbon_R.003
+    HairRoot.Ribbon_R.003_end
+  HairRoot.Ribbon_R.004
+    HairRoot.Ribbon_R.004_end
+
+=== Armature #81: HairRoot.Ribbon_L.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_L.001
+  HairRoot.Ribbon_L.001_end
+
+=== Armature #82: HairRoot.Ribbon_L.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_L.002
+  HairRoot.Ribbon_L.002_end
+
+=== Armature #83: HairRoot.Ribbon_L.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_L.003
+  HairRoot.Ribbon_L.003_end
+
+=== Armature #84: HairRoot.Ribbon_L.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_L.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_L.004
+  HairRoot.Ribbon_L.004_end
+
+=== Armature #85: HairRoot.Ribbon_R.001 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.001
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_R.001
+  HairRoot.Ribbon_R.001_end
+
+=== Armature #86: HairRoot.Ribbon_R.002 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.002
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_R.002
+  HairRoot.Ribbon_R.002_end
+
+=== Armature #87: HairRoot.Ribbon_R.003 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.003
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_R.003
+  HairRoot.Ribbon_R.003_end
+
+=== Armature #88: HairRoot.Ribbon_R.004 ===
+Full Path: SUN_Yukata Variant Variant/ElegantWaveRibbonSUN Variant/Armature.ElegantWave/Hips/Spine/Chest/UpperChest/Neck/Head/HairRoot.Ribbon/HairRoot.Ribbon_R.004
+Child Count: 1
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+HairRoot.Ribbon_R.004
+  HairRoot.Ribbon_R.004_end
+
+=== Armature #89: Armature.JamCommon ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips
+  SPINE: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon
+  LEG: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L
+  FOOT: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+  ✓ Found 9 common bones
+
+Bone Hierarchy (first 3 levels):
+Armature.JamCommon
+  Root
+    Hips
+      HipRoot
+      Spine
+      UpperLeg_L
+      UpperLeg_R
+
+=== Armature #90: Root ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips
+  SPINE: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+  LEG: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L
+  FOOT: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+  ✓ Found 9 common bones
+
+Bone Hierarchy (first 3 levels):
+Root
+  Hips
+    HipRoot
+      HipRoot_L.001
+      HipRoot_R.001
+    Spine
+      Chest
+    UpperLeg_L
+      LowerLeg_L
+    UpperLeg_R
+      LowerLeg_R
+
+=== Armature #91: HipRoot ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot
+Child Count: 2
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot
+  HipRoot_L.001
+    HipRoot_L.001_end
+      HipRoot_L.001_end_end
+  HipRoot_R.001
+    HipRoot_R.001_end
+      HipRoot_R.001_end_end
+
+=== Armature #92: HipRoot_L.001 ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_L.001
+  HipRoot_L.001_end
+    HipRoot_L.001_end_end
+      HipRoot_L.001_end_end_end
+
+=== Armature #93: HipRoot_L.001_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_L.001_end
+  HipRoot_L.001_end_end
+    HipRoot_L.001_end_end_end
+
+=== Armature #94: HipRoot_L.001_end_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_L.001_end_end
+  HipRoot_L.001_end_end_end
+
+=== Armature #95: HipRoot_R.001 ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_R.001
+  HipRoot_R.001_end
+    HipRoot_R.001_end_end
+      HipRoot_R.001_end_end_end
+
+=== Armature #96: HipRoot_R.001_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_R.001_end
+  HipRoot_R.001_end_end
+    HipRoot_R.001_end_end_end
+
+=== Armature #97: HipRoot_R.001_end_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_R.001_end_end
+  HipRoot_R.001_end_end_end
+
+=== Armature #98: BustRoot ===
+Full Path: SUN_Yukata Variant Variant/2025-08-12-3_SUN_wear_with_weights_fixed/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+Child Count: 2
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+BustRoot
+  Bust_L
+    Bust_L.001
+      Bust_L.001_end
+  Bust_R
+    Bust_R.001
+      Bust_R.001_end
+
+=== Armature #99: 2025-08-13_rigged ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged
+Child Count: 44
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips
+  SPINE: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon
+  LEG: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L
+  FOOT: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+  ✓ Found 9 common bones
+
+Bone Hierarchy (first 3 levels):
+2025-08-13_rigged
+  Armature.JamCommon
+    Root
+      Hips
+  BindingPattern_46871
+  Body
+  Body_Back
+  Body_Front_2
+  Body_Front_4
+  Body_Front_5
+  Body_Front_6
+  Body_Front_7
+  Body_Front_8
+  Bodybody
+  Object
+  Object.001
+  Object.002
+  Object.003
+  Object.004
+  Object.005
+  Object.006
+  Object.007
+  Object.008
+  Object.009
+  Object.010
+  Object.011
+  Object.012
+  Object.013
+  Object.014
+  Object.015
+  Object.016
+  Object.017
+  Object.018
+  Object.019
+  PaddingPattern_353039
+  Pattern_589370
+  Pattern_589371
+  Pattern_589372
+  Pattern_589373
+  Pattern_2331821
+  Pattern_2331822
+  Pattern_2362657
+  Pattern_2404381
+  Pattern_2410115
+  Pattern_2410116
+  Sleeves_6
+  Sleeves_8
+
+=== Armature #100: Armature.JamCommon ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips
+  SPINE: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon
+  LEG: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L
+  FOOT: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+  ✓ Found 9 common bones
+
+Bone Hierarchy (first 3 levels):
+Armature.JamCommon
+  Root
+    Hips
+      HipRoot
+      Spine
+      UpperLeg_L
+      UpperLeg_R
+
+=== Armature #101: Root ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips
+  SPINE: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine
+  CHEST: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest
+  NECK: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck
+  HEAD: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Neck/Head
+  SHOULDER: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L
+  ARM: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/Shoulder_L/UpperArm_L
+  LEG: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L
+  FOOT: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/UpperLeg_L/LowerLeg_L/Foot_L
+  ✓ Found 9 common bones
+
+Bone Hierarchy (first 3 levels):
+Root
+  Hips
+    HipRoot
+      HipRoot_L.001
+      HipRoot_R.001
+    Spine
+      Chest
+    UpperLeg_L
+      LowerLeg_L
+    UpperLeg_R
+      LowerLeg_R
+
+=== Armature #102: HipRoot ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+Child Count: 2
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot
+  HipRoot_L.001
+    HipRoot_L.001_end
+      HipRoot_L.001_end_end
+  HipRoot_R.001
+    HipRoot_R.001_end
+      HipRoot_R.001_end_end
+
+=== Armature #103: HipRoot_L.001 ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_L.001
+  HipRoot_L.001_end
+    HipRoot_L.001_end_end
+      HipRoot_L.001_end_end_end
+
+=== Armature #104: HipRoot_L.001_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_L.001_end
+  HipRoot_L.001_end_end
+    HipRoot_L.001_end_end_end
+
+=== Armature #105: HipRoot_L.001_end_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_L.001/HipRoot_L.001_end/HipRoot_L.001_end_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_L.001_end_end
+  HipRoot_L.001_end_end_end
+
+=== Armature #106: HipRoot_R.001 ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_R.001
+  HipRoot_R.001_end
+    HipRoot_R.001_end_end
+      HipRoot_R.001_end_end_end
+
+=== Armature #107: HipRoot_R.001_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_R.001_end
+  HipRoot_R.001_end_end
+    HipRoot_R.001_end_end_end
+
+=== Armature #108: HipRoot_R.001_end_end ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+Child Count: 1
+
+  HIP: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/HipRoot/HipRoot_R.001/HipRoot_R.001_end/HipRoot_R.001_end_end
+  ✓ Found 1 common bones
+
+Bone Hierarchy (first 3 levels):
+HipRoot_R.001_end_end
+  HipRoot_R.001_end_end_end
+
+=== Armature #109: BustRoot ===
+Full Path: SUN_Yukata Variant Variant/2025-08-13_rigged/Armature.JamCommon/Root/Hips/Spine/Chest/UpperChest/BustRoot
+Child Count: 2
+
+  ⚠ No common bone names found
+
+Bone Hierarchy (first 3 levels):
+BustRoot
+  Bust_L
+    Bust_L.001
+      Bust_L.001_end
+  Bust_R
+    Bust_R.001
+      Bust_R.001_end
+

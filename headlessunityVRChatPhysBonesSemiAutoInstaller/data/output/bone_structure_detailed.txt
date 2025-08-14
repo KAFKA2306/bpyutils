@@ -1,0 +1,18 @@
+=== BONE STRUCTURE ANALYSIS ===
+Unity Scene: MarvelousDesigner
+Analysis Date: Thu Aug 14 15:06:44 JST 2025
+
+DISCOVERED ARMATURE STRUCTURE:
+
+Main Armature: Armature.JamCommon
+├── Root (root bone)
+│   └── Hips (hip bone)
+
+BONE HIERARCHY FOR VRCHAT PHYSBONES:
+- Root: Armature.JamCommon/Root
+- Hips: Armature.JamCommon/Root/Hips
+
+RECOMMENDED PHYSBONE TARGETS:
+For skirt physics: Root/Hips hierarchy
+Root bone path: Armature.JamCommon/Root
+Hip bone path: Armature.JamCommon/Root/Hips

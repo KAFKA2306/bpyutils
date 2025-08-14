@@ -1,103 +1,167 @@
-Skirt PB Installer (Headless Unity Edition)
+# VRChat PhysBone Headless Unity Installer
 
-***
+Automated Unity headless CLI tool for VRChat PhysBone configuration and armature analysis.
 
-目的
-----
+## Overview
 
-VRChat アバターのスカート用 VRCPhysBone（PB）設定を  
-GUI なし（`-batchmode -nographics`）の Unity ランタイム／CI 上で自動化する  
-CLI ツールを作成する。
+This tool provides automated VRChat PhysBone setup and comprehensive armature structure detection through Unity's headless mode (`-batchmode -nographics`). It analyzes Unity scenes to detect bone hierarchies (root, hips, spine, etc.) and outputs detailed armature information for VRChat configuration.
 
-環境
-----
+## Environment
 
-* Unity 2022.3 LTS 以降（Windows / Linux 共通）  
-* 起動オプション: `-batchmode -nographics`  
-* VRCSDK3-AVATAR（PhysBone API 利用）  
-* .NET Standard 2.1 相当（Unity 内部ランタイム）
+* Unity 2022.3.22f1 LTS (Linux/WSL2 tested)
+* Unity Hub with active license  
+* Headless execution: `-batchmode -nographics`
+* VRChat SDK3 (optional - fallback analysis available)
+* .NET Standard 2.1 (Unity runtime)
 
-入出力
-------
+## Quick Start
 
-1. 入力  
-   * シーン or Prefab 内に含まれるスケルトン階層  
-   * コマンドライン引数  
-     - `-skirtRoot ` (省略可)  
-     - `-angle ` (default 45)  
-     - `-innerAngle ` (default 10)  
-     - `-boneRegex ` (省略時: `\.\d+`)  
-     - `-hierarchyOut ` (default `hierarchy_dump.txt`)
-2. 出力  
-   * 階層ダンプ TXT (パス/名前を 1 行 1 ノードで保存)  
-   * 標準ログ（Unity log）  
-   * 終了コード   
-     0 = 成功 / 1 = -skirtRoot 未指定 / 2 = 指定ノードなし /  
-     3 = PhysBone 不足 / 4 = その他エラー
+```bash
+# Main script - analyzes Unity scene and detects armature
+./run_headless_test.sh
 
-機能要件
---------
-
-FR-1 階層ダンプ  
-* アクティブシーンをロードし、`Scene.GetRootGameObjects()` から DFS で  
-  `fullPath` を `hierarchyOut` に出力する。
-
-FR-2 Skirt Root 指定の受付  
-* `-skirtRoot` が無い場合は FR-1 のみ実行して ExitCode 1。  
-* ある場合は `GameObject.Find()` で該当 Transform を取得。
-
-FR-3 ボーン列挙  
-* `boneRegex` で Skirt Root 直下の **直系の子** をフィルタ。  
-  該当なし → ExitCode 2。
-
-FR-4 PhysBone 検証  
-* 各ボーンに `VRCPhysBone` が付いているか確認。  
-  1 つでも欠ければ ExitCode 3。
-
-FR-5 PhysBone 設定  
-* 対象ボーンに対し下記プロパティを一括変更 / 追加入。  
-  ```
-  limitType      = Hinge
-  maxAngleX      = 
-  limitRotation.x=  - 
-  limitRotation.y= roll   // 計算式下記
-  ```
-* roll = atan2(childPos.z, childPos.x) * Rad2Deg + 90  
-  ただし childPos は Root から最深 Leaf までのベクトル。
-
-FR-6 アセット保存  
-* `EditorUtility.SetDirty()` と `AssetDatabase.SaveAssets()` で変更を永続化。  
-  Player ビルド時は不要。
-
-非機能要件
-----------
-
-NFR-1 ヘッドレス互換  
-* GraphicsDeviceType.Null でも動作する API のみを使用する。
-
-NFR-2 依存最小化  
-* 追加 DLL は VRCSDK3 以外導入しない。  
-* ソースは単一 C# ファイル (`SkirtPBHeadless.cs`) で完結させる。
-
-NFR-3 スクリプトサイズ  
-* 500 行以内、外部 JSON 等は使わない。
-
-NFR-4 ログ  
-* `Debug.Log` / `Debug.LogError` で人が読めるメッセージを出力。  
-* Hierarchy構造を出力する
-* PhysBoneがついたかどうかあとからチェックする別スクリプトを使って出力する
-* 重大エラー時は `Application.Quit()` を必ず呼ぶ。
-
-
-ファイル構成
--------------
-
-```
-Assets/
- └─ Editor/
-     └─ SkirtPBHeadless.cs   // メイン実装
-requirements.md             // 本ドキュメント
+# Enhanced armature extraction (fallback method)
+./analyze_scene.sh
+./extract_armature.sh
 ```
 
+## Input/Output
 
-/mnt/wsl/bpyutils-backup - コピー/headlessunityVRChatPhysBonesSemiAutoInstallerで作業する
+### Input
+- Unity scene: `Assets/scene/MarvelousDesigner.unity`
+- Command line arguments:
+  - `-skirtRoot <path>` (optional - for PhysBone config)
+  - `-angle <degrees>` (default: 45)
+  - `-innerAngle <degrees>` (default: 10)
+  - `-boneRegex <pattern>` (default: `\.\d+`)
+  - `-hierarchyOut <filename>` (default: `hierarchy_dump.txt`)
+  - `-deepHierarchy true/false` (deep scene analysis)
+  - `-findArmature true/false` (armature detection)
+  - `-showBoneStructure true/false` (show component info)
+
+### Output Directory: `data/output/`
+- **`hierarchy_dump.txt`** - Complete scene hierarchy 
+- **`unity_armature_bones.txt`** - Unity-detected bone structure
+- **`vrchat_bone_paths.txt`** - Ready-to-use VRChat PhysBone paths
+- **`bone_structure_detailed.txt`** - Human-readable bone analysis
+- **`armature_hierarchy.txt`** - Armature structure summary
+- **`unity.log`** - Unity execution log
+
+### Exit Codes
+- 0 = Success 
+- 1 = No skirt root specified / licensing issues
+- 2 = Specified node not found
+- 3 = Missing PhysBone components  
+- 4 = Other errors
+
+## Project Structure & Code Paths
+
+```
+/mnt/wsl/bpyutils2/headlessunityVRChatPhysBonesSemiAutoInstaller/
+├── run_headless_test.sh                    # Main Unity headless runner
+├── analyze_scene.sh                        # Fallback scene analyzer 
+├── extract_armature.sh                     # Enhanced armature extractor
+├── installation.md                         # Unity Hub setup guide
+├── README.md                               # This documentation
+│
+├── Assets/
+│   ├── scene/
+│   │   └── MarvelousDesigner.unity         # Target Unity scene
+│   └── Editor/
+│       ├── SimpleHierarchyDump.cs          # VRChat SDK-free Unity script
+│       ├── SkirtPBHeadless.cs.bak          # Original VRChat SDK script (disabled)
+│       └── (other editor scripts...)       
+│
+├── data/
+│   └── output/                             # Analysis output directory
+│       ├── hierarchy_dump.txt              # Complete scene structure
+│       ├── unity_armature_bones.txt        # Unity-detected bones
+│       ├── vrchat_bone_paths.txt           # VRChat configuration paths
+│       ├── bone_structure_detailed.txt     # Human-readable analysis
+│       ├── armature_hierarchy.txt          # Armature summary
+│       └── unity.log                       # Unity execution log
+│
+└── Assets/Pielotopica/Editor/              # Additional editor tools
+    ├── SkirtPBInstaller.cs.bak            # Original PhysBone installer (disabled)
+    └── AnimationBaker.cs                   # Animation utilities
+```
+
+## Core Components
+
+### Main Scripts
+- **`run_headless_test.sh`** - Primary Unity headless execution script
+  - Launches Unity 2022.3.22f1 in headless mode
+  - Executes `SimpleHierarchyDump.Main()` method
+  - Outputs results to `data/output/` directory
+  - Runs enhanced analysis via `extract_armature.sh`
+
+- **`Assets/Editor/SimpleHierarchyDump.cs`** - Unity C# script for scene analysis
+  - VRChat SDK-independent implementation
+  - Recursively analyzes scene hierarchy
+  - Detects armature structures and bone hierarchies
+  - Exports detailed bone structure to `unity_armature_bones.txt`
+
+### Fallback Analysis Tools
+- **`analyze_scene.sh`** - Direct Unity scene file parser
+  - Parses `.unity` files without launching Unity
+  - Extracts GameObject and Transform references
+  - Creates basic armature structure analysis
+
+- **`extract_armature.sh`** - Enhanced armature structure extractor
+  - Generates VRChat-ready bone path configurations
+  - Creates human-readable bone hierarchy documentation
+  - Outputs ready-to-use PhysBone configuration paths
+
+## Detected Armature Structure
+
+**Character Model:** SUN_Yukata Variant Variant  
+**Main Armature:** Armature.JamCommon
+
+### Bone Hierarchy
+```
+Root
+├── Hips
+│   ├── HipRoot (skirt physics bones)
+│   │   ├── HipRoot_L.001 
+│   │   └── HipRoot_R.001
+│   ├── Spine → Chest → UpperChest
+│   │   ├── BustRoot (breast physics)
+│   │   ├── Neck → Head
+│   │   └── Shoulder_L/R → Arms → Hands → Fingers
+│   └── UpperLeg_L/R → LowerLeg → Foot → Toes
+```
+
+### VRChat PhysBone Configuration Paths
+- **Skirt Physics Root**: `HipRoot` 
+- **Full Path**: `SUN_Yukata Variant Variant/Armature.JamCommon/Root/Hips/HipRoot`
+- **Breast Physics**: `BustRoot`
+- **Root Transform**: `Armature.JamCommon/Root`
+
+## Functional Requirements
+
+- **FR-1**: Scene hierarchy dump via `Scene.GetRootGameObjects()` DFS traversal
+- **FR-2**: Optional skirt root specification for PhysBone configuration  
+- **FR-3**: Bone enumeration with regex filtering of direct children
+- **FR-4**: VRCPhysBone component validation (when VRChat SDK available)
+- **FR-5**: PhysBone property configuration (limitType, angles, rotations)
+- **FR-6**: Asset persistence via `AssetDatabase.SaveAssets()`
+
+## Non-Functional Requirements
+
+- **NFR-1**: Headless compatibility (GraphicsDeviceType.Null support)
+- **NFR-2**: Minimal dependencies (VRChat SDK optional)  
+- **NFR-3**: Self-contained implementation
+- **NFR-4**: Comprehensive logging and error handling
+
+## Usage Examples
+
+```bash
+# Basic armature analysis
+./run_headless_test.sh
+
+# PhysBone configuration for specific root
+./run_headless_test.sh /home/kafka/Unity/Hub/Editor/2022.3.22f1/Editor/Unity "HipRoot" ".*\.001" 45 10
+
+# Fallback analysis without Unity
+./analyze_scene.sh && ./extract_armature.sh
+```

@@ -1,0 +1,10 @@
+=== VRCHAT PHYSBONE CONFIGURATION ===
+Ready-to-use bone paths for VRChat PhysBone setup:
+
+ARMATURE: Armature.JamCommon
+ROOT_BONE: Armature.JamCommon/Root
+HIP_BONE: Armature.JamCommon/Root/Hips
+
+Usage in VRChat PhysBones:
+- Set 'Root Transform' to: Root
+- Set 'Ignore Transforms' to include: Hips (if needed)
