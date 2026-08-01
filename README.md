@@ -1,14 +1,106 @@
+# bpyutils — Blender・Unity衣装変換ユーティリティ集
 
-Funtion 1
-Delete needless IK bones in Blender FBX file.
-Purpose : to run Marvelous Designer FBX output successfully.
+**リポジトリ:** https://github.com/KAFKA2306/bpyutils
 
-Function 2
-Weight transfer from Blender`s Avatar Armature to Marvelous Designer FBX Garment file in a FBX file.# bpyutils
+Marvelous Designer、Blender、Unity、VRChat間の衣装変換で発生する定型作業を自動化するための実験的ユーティリティ集です。
 
-Function3
-/mnt/wsl/bpyutils-backup - コピー/headlessunityVRChatPhysBonesSemiAutoInstaller
-GUI なし（`-batchmode -nographics`）の Unity ランタイム／CI 上で自動化するCLI ツールを作成する。
+複数の独立した試作が同じリポジトリに含まれており、一つの完成したCLIやパッケージとして統合されているわけではありません。各スクリプトの入力、出力、対応バージョンを確認してから使用してください。
 
-Function4
-Marvelous DesignerからエクスポートしたFBXファイルをUnityに読み込む際、透過設定が失われStandard Shaderに変換される問題を自動解決するHeadless Unityスクリプトを開発する。
+## 収録している主なテーマ
+
+### Blender / FBX
+
+- Marvelous Designer出力FBXに含まれる不要なIKボーンの削除
+- アバター側Armatureから衣装メッシュへのウェイト転送
+- FBXの階層・ボーン・Skinned Mesh変換の補助
+
+### Headless Unity
+
+- `-batchmode -nographics`で実行するUnity Editor処理の試作
+- VRChat PhysBone設定を補助する処理
+- CIやローカルバッチからUnityプロジェクトを検証する処理
+
+### マテリアル変換
+
+- Marvelous Designer由来FBXをUnityへ読み込んだ際の透過設定確認
+- Standard Shaderへ変換されたマテリアルの補正試作
+- 透明度、Rendering Mode、テクスチャ参照の検査
+
+## 現在の位置づけ
+
+コミット履歴では、2025年8月に次の実験が追加されています。
+
+- Headless Unity起動
+- 透明マテリアル処理
+- PhysBone関連処理
+- バッチテスト用シェルスクリプト
+
+これらが現在のUnity・VRChat SDK・Blenderで再検証済みであることは、READMEだけでは確認できません。
+
+## 使用前に確認すること
+
+- Blenderの正確なバージョン
+- Unity Editorの正確なバージョン
+- VRChat SDKのバージョン
+- 入力FBXの作成元とエクスポート設定
+- 対象アバターのボーン構造
+- 実行スクリプトが変更するファイル
+- バックアップとGit差分
+
+## 安全な実行手順
+
+1. 元FBXとUnityプロジェクトをバックアップする
+2. 専用ブランチまたはコピーで作業する
+3. スクリプトを開き、ハードコードされたパスを確認する
+4. Dry Run機能があれば先に実行する
+5. 一つの処理だけを小さなサンプルで試す
+6. Blender・UnityのConsoleログを保存する
+7. 生成物の差分を確認する
+8. Unity Play ModeとVRChat SDK Build & Testで検証する
+
+## ボーン削除の注意
+
+「IK」という名前だけで削除対象を決めると、必要な補助ボーンやアニメーション参照を破壊する可能性があります。削除前に次を記録してください。
+
+- ボーン名
+- 親子関係
+- ウェイトを持つ頂点数
+- Constraint・AnimationClipからの参照
+- Humanoid Mappingへの影響
+
+## ウェイト転送の注意
+
+ウェイト転送は、衣装と素体の位置、スケール、ポーズ、表面距離に強く依存します。転送後は少なくとも次のポーズを確認してください。
+
+- Tポーズまたは基準ポーズ
+- 腕上げ
+- 腕組み
+- しゃがみ
+- 座り
+- 脚の大きな屈曲
+
+## Headless Unityの注意
+
+バッチモードで処理が終了コード0になっても、見た目やVRChat内動作が正しいとは限りません。
+
+- Editor.logを保存する
+- Import ErrorとMissing Scriptを検出する
+- Prefabとマテリアルを再読込する
+- GUI環境でも最終確認する
+- VRChatクライアントで実動作を確認する
+
+## 改修優先度
+
+- 各ユーティリティを独立ディレクトリへ分ける
+- READMEと実行例をユーティリティごとに用意する
+- 対応ツールチェーンを固定する
+- ハードコードされたローカルパスを設定ファイルへ移す
+- 変更前後の監査JSONを生成する
+- CI用の最小Unityプロジェクトを用意する
+- 自動変更と人間レビューを分離する
+
+## 注意
+
+このリポジトリは実験用ツール集です。購入アバター、衣装、モデル、テクスチャを公開リポジトリへ含めないでください。生成物の配布可否は各アセットの利用規約に従ってください。
+
+**README最終監査:** 2026-08-01
