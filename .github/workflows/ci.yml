@@ -1,0 +1,46 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Compile Python scripts
+        run: >-
+          python -m compileall -q
+          blender-workspace/scripts
+          fbx-weight-transfer-unity/unity-scripts
+          organized/scripts
+
+      - name: Validate shell syntax
+        shell: bash
+        run: |
+          git ls-files '*.sh' | while IFS= read -r file; do
+            bash -n "$file"
+          done
+
+      - name: Verify duplicate copies are absent
+        run: test ! -d blender-workspace/scripts/DeleteIKbone
+
+      - name: Install Blender
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y blender
+
+      - name: Run Blender smoke test
+        run: >-
+          blender --background
+          --python-exit-code 1
+          --python blender-workspace/scripts/ik_bone_manager.py
+
+      - name: Verify clean checkout
+        run: test -z "$(git status --porcelain)"
