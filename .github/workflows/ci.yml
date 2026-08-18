@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
 
       - name: Compile Python scripts
         run: >-
@@ -32,6 +33,12 @@ jobs:
 
       - name: Verify duplicate copies are absent
         run: test ! -d blender-workspace/scripts/DeleteIKbone
+
+      - name: Verify no broken gitlinks remain
+        shell: bash
+        run: |
+          test -z "$(git ls-files --stage | awk '$1 == "160000" {print $4}')"
+          git submodule foreach --recursive 'true'
 
       - name: Install Blender
         run: |
